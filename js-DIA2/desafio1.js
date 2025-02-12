@@ -15,7 +15,6 @@ if( a >= 1){
     }else{
         console.log("Não possui raizes")
     }
-
 }else{
     console.log("A variável A n é valida ")
 }
