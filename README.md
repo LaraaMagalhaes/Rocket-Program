@@ -5,8 +5,6 @@ Este repositório contém diversos projetos e códigos que desenvolvi enquanto e
 
 ## Estrutura do Repositório
 
-A estrutura do repositório é organizada da seguinte forma:
-
 . As pastas estão organizadas por dias do curso, e dentro de cada pasta, os códigos serão subdivididos de acordo com os temas e exercícios abordados em cada dia, como mostrado nos tópicos a seguir.
 - [Conteúdos]: Pequenos códigos relacionados com os conteúdos vistos no dia.
 - [Desafio 1]: Primeiro desafio, estipulado no próprio ludos pro.
