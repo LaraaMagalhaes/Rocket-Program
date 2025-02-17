@@ -28,4 +28,4 @@ const pessoa1 = new Pessoa("Lara", "lara@gmail.com", "17", "abc123")
 
 console.log(pessoa1);
 
-pessoa1.login("lara@gmail.com", "abc1234" )
+pessoa1.login("lara@gmail.com", "abc123" )

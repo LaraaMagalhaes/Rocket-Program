@@ -17,7 +17,8 @@ console.log(pessoa.email);
 console.log(console);
 
 // pessoa tem valores, logo, é uma propriedade
-// console tem funções, logo, é um método//log por exemplo é uma função do objeto console
+// console tem funções, logo, é um método
+//log por exemplo é uma função do objeto console
 
 pessoa.andar = function(){
     console.log(`${this.nome} está andando`)
@@ -40,6 +41,9 @@ const carro = {
 }
 carro.andar();
 carro.freiar();
+
+//delete pessoa.idade; //remove uma propriedade
+
 
 console.log(carro.marca);
 
