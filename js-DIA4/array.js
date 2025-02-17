@@ -41,3 +41,28 @@ for(let i = 0; i<10; i++){
 }
 
 console.log(teste);
+
+
+let anna = new Array();
+anna.push("Anna")
+anna.push(7, 6, 8, 5, 9)
+
+let julia = new Array();
+julia.push("julia")
+julia.push(9, 8, 10, 7, 8, 9)
+
+let debora = new Array();
+debora.push("debora")
+debora.push(5, 6, 7, 6, 5)
+
+let luisa = new Array();
+luisa.push("luisa")
+luisa.push(1, 2, 3, 7, 4, 9, 6, 8)
+
+let equipe = new Array(anna, julia, debora, luisa)
+
+
+ console.log(equipe[0])
+ console.log(equipe[1])
+ console.log(equipe[2])
+ console.log(equipe[3])
