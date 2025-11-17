@@ -1,18 +1,17 @@
 # Rocket-Program
-# Projetos de Estudo em JavaScript
+# JavaScript Study Projects
 
-Este repositório contém diversos projetos e códigos que desenvolvi enquanto estudava JavaScript. A ideia aqui é ter uma coleção organizada de exemplos, desafios e pequenos programas para melhorar minhas habilidades na linguagem.
+This repository contains several projects and code snippets that I developed while studying JavaScript. The idea is to have an organized collection of examples, challenges, and small programs to improve my skills in the language.
 
-## Estrutura do Repositório
+## Repository Structure
 
-. As pastas estão organizadas por dias do curso, e dentro de cada pasta, os códigos serão subdivididos de acordo com os temas e exercícios abordados em cada dia, como mostrado nos tópicos a seguir.
-- [Conteúdos]: Pequenos códigos relacionados com os conteúdos vistos no dia.
-- [Desafio 1]: Primeiro desafio, estipulado no próprio ludos pro.
-- [Desafio 2]: Segundo desafio, estipulado pela cintia no teams.
+The folders are organized by course days, and within each folder, the code is subdivided according to the topics and exercises covered each day, as shown below:
 
+- [Contents]: Small code examples related to the content covered on the day.
+- [Challenge 1]: First challenge, set in Ludos Pro itself.
+- [Challenge 2]: Second challenge, set by Cintia on Teams.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **JavaScript**: A principal linguagem utilizada em todos os projetos.
-- **Node.js**: Para rodar os scripts em alguns projetos.
-
+- **JavaScript**: The main language used in all projects.
+- **Node.js**: To run scripts in some projects.
